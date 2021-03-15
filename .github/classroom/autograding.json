@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "01",
+      "setup": "make soal-02",
+      "run": "./soal-02",
+      "input": "jalur1.txt",
+      "output": "Jarak yang ditempuh adalah: 14.00 KM\r\nWaktu yang dibutuhkan adalah: 0 Jam 37 Menit\r\nBahan bakar yang dibutuhkan adalah: 1.40 Liter",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "02",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "jalur2.txt",
+      "output": "Jarak yang ditempuh adalah: 76.43 KM\r\nWaktu yang dibutuhkan adalah: 1 Jam 23 Menit\r\nBahan bakar yang dibutuhkan adalah: 7.64 Liter",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "03",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "jalur3.txt",
+      "output": "Jarak yang ditempuh adalah: 462.41 KM\r\nWaktu yang dibutuhkan adalah: 7 Jam 1 Menit\r\nBahan bakar yang dibutuhkan adalah: 46.24 Liter",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "04",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "jalur4.txt",
+      "output": "Jarak yang ditempuh adalah: 308.44 KM\r\nWaktu yang dibutuhkan adalah: 8 Jam 36 Menit\r\nBahan bakar yang dibutuhkan adalah: 30.84 Liter",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "05",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "jalur5.txt",
+      "output": "Jarak yang ditempuh adalah: 1205.99 KM\r\nWaktu yang dibutuhkan adalah: 15 Jam 4 Menit\r\nBahan bakar yang dibutuhkan adalah: 120.60 Liter",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "06",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "jalur6.txt",
+      "output": "Jarak yang ditempuh adalah: 778.11 KM\r\nWaktu yang dibutuhkan adalah: 10 Jam 31 Menit\r\nBahan bakar yang dibutuhkan adalah: 77.81 Liter",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "07",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "jalur7.txt",
+      "output": "Jarak yang ditempuh adalah: 3195.77 KM\r\nWaktu yang dibutuhkan adalah: 50 Jam 7 Menit\r\nBahan bakar yang dibutuhkan adalah: 319.58 Liter",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "08",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "jalur8.txt",
+      "output": "Jarak yang ditempuh adalah: 592.94 KM\r\nWaktu yang dibutuhkan adalah: 12 Jam 15 Menit\r\nBahan bakar yang dibutuhkan adalah: 59.29 Liter",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "09",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "jalur9.txt",
+      "output": "Jarak yang ditempuh adalah: 2124.26 KM\r\nWaktu yang dibutuhkan adalah: 64 Jam 23 Menit\r\nBahan bakar yang dibutuhkan adalah: 212.43 Liter",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "10",
+      "setup": "",
+      "run": "./soal-02",
+      "input": "jalur10.txt",
+      "output": "Jarak yang ditempuh adalah: 836.16 KM\r\nWaktu yang dibutuhkan adalah: 1 Jam -1 Menit\r\nBahan bakar yang dibutuhkan adalah: 83.62 Liter",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
