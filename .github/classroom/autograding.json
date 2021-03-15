@@ -95,7 +95,7 @@
       "setup": "",
       "run": "./soal-02",
       "input": "jalur10.txt",
-      "output": "Jarak yang ditempuh adalah: 836.16 KM\r\nWaktu yang dibutuhkan adalah: 1 Jam -1 Menit\r\nBahan bakar yang dibutuhkan adalah: 83.62 Liter",
+      "output": "Jarak yang ditempuh adalah: 589.98 KM\r\nWaktu yang dibutuhkan adalah: 9 Jam 11 Menit\r\nBahan bakar yang dibutuhkan adalah: 59.00 Liter",
       "comparison": "included",
       "timeout": 1,
       "points": 10
